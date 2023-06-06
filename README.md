@@ -63,9 +63,9 @@ height: 640px;
 background: #C6CA12;
 ```
 ## OUTPUT:
-![ex9 out1](https://github.com/22008837/event-registration/assets/120194155/17586dc1-4693-4945-994c-d7ff9d955075)
-![ex9 out2](https://github.com/22008837/event-registration/assets/120194155/a61870d9-2689-4662-99ef-459b9b2d0a53)
-![ex9 out3](https://github.com/22008837/event-registration/assets/120194155/4892057b-32c7-4a24-ba38-2e443e963280)
+![ex9 op1](https://github.com/22008837/event-registration/assets/120194155/c1b56b0c-bf6a-4f21-a56f-0b51357a577b)
+![ex9 op2](https://github.com/22008837/event-registration/assets/120194155/14ee2e4e-d56f-486a-8f95-c309b3ad2a52)
+![ex9 op3](https://github.com/22008837/event-registration/assets/120194155/1d8d9cc5-8a16-4a7d-ba64-54e335e5b72f)
 
 ## Result:
 Thus, A Web application for event registration is designed and displayed.
